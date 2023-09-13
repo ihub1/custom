@@ -5,11 +5,11 @@ UDP (User Datagram Protocol) is a network communication protocol that operates o
 
 
 ---
-<center><img src="https://raw.githubusercontent.com/Phildroid/Http-Custom/main/bin/logo.jpg" alt="logo" width="400"/></center>
+<center><img src="https://raw.githubusercontent.com/ihub1/custom/main/bin/logo.jpg" alt="logo" width="400"/></center>
 
 ---
 ## Changelog: 
-see [commits](https://github.com/Phildroid/Http-Custom/commits/main)
+see [commits](https://github.com/ihub1/custom/commits/main)
 
 ---
 
@@ -22,7 +22,7 @@ see [commits](https://github.com/Phildroid/Http-Custom/commits/main)
 sudo -s
 ``` 
 ```
-wget "https://raw.githubusercontent.com/Phildroid/Http-Custom/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
+wget "https://raw.githubusercontent.com/ihub1/custom/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
 ```
 
 
