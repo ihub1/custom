@@ -65,6 +65,9 @@ apt update && apt upgrade -y
 wget "https://raw.githubusercontent.com/ihub1/custom/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
 ```
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
+</p>
 
 ## Manually
 
