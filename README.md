@@ -1,6 +1,6 @@
 <h2 align="center">UDP Custom - Installer and Manager<h2>
 
-<p align="center"><i>Version ⇢ 2.5-Lite</i></p>
+<p align="center"><i>Version ⇢ 3.0-Lite</i></p>
 
 <h3 align="center"><i><u>Visitors</u> 🔍</i></h3>
 
