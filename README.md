@@ -7,7 +7,7 @@
 <p align="center"><i>starting Tue, 11 Jul, 2023 !</i></p>
 <p align="center"><img src="https://profile-counter.glitch.me/{prjkt-nv404}/count.svg" alt="neoxr :: Visitor's Count" /></p>
 
-UDP (User Datagram Protocol) is a network communication protocol that operates on top of IP (Internet Protocol). It is a simpler protocol compared to TCP (Transmission Control Protocol), as it aims for speed rather than reliability.
+<h2 align="center">UDP (User Datagram Protocol) is a network communication protocol that operates on top of IP (Internet Protocol). It is a simpler protocol compared to TCP (Transmission Control Protocol), as it aims for speed rather than reliability.
 
 
 ---
