@@ -57,6 +57,7 @@ apt update && apt upgrade -y
   <h2 align="center">### Run the Script 
 
   <h2 align="center">## Install
+    
 ```
 wget "https://raw.githubusercontent.com/ihub1/custom/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
 ```
