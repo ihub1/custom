@@ -32,17 +32,17 @@ wget "https://raw.githubusercontent.com/ihub1/custom/main/install.sh" -O install
 ```
 
 
-## Manually
+<h2 align="center">## Manually
 
-## Note: 
+<h2 align="center">## Note: 
  * Use optional port exclude when port udp between 1-65535 already use by other udp tunnel, like badvpn, ovpn udp and other.
  * Edit path config /root/udp/config.json, after changing it then reboot
  * Optional port exclude separated by coma, ex. 53,5300
 
-## Credit
- > [icode](https://t.me/icode1)
+<h2 align="center">## Credit
+ <h2 align="center">> [icode](https://t.me/icode1)
 
- > [@rudi9999]()
+ <h2 align="center">> [@rudi9999]()
 
 #
   > _made from pieces with ❤️_
