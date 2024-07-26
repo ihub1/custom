@@ -21,9 +21,11 @@ see [commits](https://github.com/ihub1/custom/commits/main)
 
 ---
 
-# Supported OS
--Ubuntu 18.0, 20.0, 22.04, 23.0
+## 🛠️ Supported Systems 
+
+- Ubuntu 18.0, 20.0, 22.04, 23.0
 - Debian 9, 10 
+
 ---
 
 ## 🛠️ Technologies & Tools
