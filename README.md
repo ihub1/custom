@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+  <h2 align="center">## 🛠️ Technologies & Tools
 
 - shell 
 - Python
@@ -37,29 +37,26 @@
   <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
 </p>
 
-## 📚 How To Use Script
+  <h2 align="center">## 📚 How To Use Script
 <p align="center">
   <img src="(https://raw.githubusercontent.com/TeslaSSH/Tesla_UDP_custom-/main/bin/Screenshot_20231102-123852~3.png)"/>
 </p>
 
-### Turn on Root Mode
+  <h2 align="center">### Turn on Root Mode
 
 ```
 sudo -s
 ```
 
-### Update the Packages 
+  <h2 align="center">### Update the Packages 
 
 ```
 apt update && apt upgrade -y
 ```
 
-### Run the Script 
+  <h2 align="center">### Run the Script 
 
-## Install
-```
-sudo -s
-``` 
+  <h2 align="center">## Install
 ```
 wget "https://raw.githubusercontent.com/ihub1/custom/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
 ```
@@ -77,6 +74,6 @@ wget "https://raw.githubusercontent.com/ihub1/custom/main/install.sh" -O install
 
  <h2 align="center">> [@rudi9999]()
 
-#
+  <h2 align="center">#
   > _made from pieces with ❤️_
 #
