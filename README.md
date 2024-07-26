@@ -23,6 +23,39 @@
 - ubuntu 20.04 [x86_64] ✅ _(recommended)_
 - [arm] ❌
 
+---
+
+## 🛠️ Technologies & Tools
+
+- shell 
+- Python
+- C++
+- AWS
+- Azure
+- Google Cloud
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
+</p>
+
+## 📚 How To Use Script
+<p align="center">
+  <img src="(https://raw.githubusercontent.com/TeslaSSH/Tesla_UDP_custom-/main/bin/Screenshot_20231102-123852~3.png)"/>
+</p>
+
+### Turn on Root Mode
+
+```
+sudo -s
+```
+
+### Update the Packages 
+
+```
+apt update && apt upgrade -y
+```
+
+### Run the Script 
+
 ## Install
 ```
 sudo -s
