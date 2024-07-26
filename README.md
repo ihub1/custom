@@ -4,7 +4,7 @@
 
 <h3 align="center"><i><u>Visitors</u> 🔍</i></h3>
 
-<p align="center"><i>starting Tue, 11 Jul, 2023 !</i></p>
+<p align="center"><i>starting Sat, 27 Jul, 2024 !</i></p>
 <p align="center"><img src="https://profile-counter.glitch.me/{prjkt-nv404}/count.svg" alt="neoxr :: Visitor's Count" /></p>
 
 <h2 align="center">UDP (User Datagram Protocol) is a network communication protocol that operates on top of IP (Internet Protocol). It is a simpler protocol compared to TCP (Transmission Control Protocol), as it aims for speed rather than reliability.
@@ -14,12 +14,12 @@
 <center><img src="https://raw.githubusercontent.com/ihub1/custom/main/bin/logo.jpg" alt="logo" width="400"/></center>
 
 ---
-## Changelog: 
-see [commits](https://github.com/ihub1/custom/commits/main)
+  <h2 align="center">## Changelog: 
+<h2 align="center">see [commits](https://github.com/ihub1/custom/commits/main)
 
 ---
 
-# Supported OS
+<h2 align="center"># Supported OS
 - ubuntu 20.04 [x86_64] ✅ _(recommended)_
 - [arm] ❌
 
